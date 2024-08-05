@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ferhat Mohamed Tahar! 👋🙂
 
-<!--
-**Ferhatmedtahar/Ferhatmedtahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](linkedin.com/in/ferhat-mohamed-tahar-839672267)  [![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:ferhattaher00@gmail.com)
 
-Here are some ideas to get you started:
+Hey there! 🚀 I'm a Front-End Web Developer on an exciting coding journey, crafting captivating digital experiences for users to enjoy effortlessly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Myself 😎
+
+I'm passionate about web development and currently diving deep into learning Next.js. I strive to create web appsthat are pixel-perfect, user-friendly, and accessible to everyone.
+
+🛠️ Built multiple projects, showcasing my front-end skills with various technologies. I love checking out others' work, and learning in the process.
+
+## Let's Connect 🤝
+
+Excited to chat with developers, designers, or anyone into cool tech stuff. Hit me up at ferhattaher00@gmail.com 💌. Let's dive into some creative coding adventures!
+
+## Proficiencies and Toolset 🛠️
+
+- **Languages:** HTML, CSS, JavaScript
+- **Styling:** Sass, Tailwind CSS, Styled Components
+- **Libraries & Frameworks:** React, React Query, React Router , React hook form 
+- **Tools:** Git, Supabase, VS Code, Webpack, Vite
+
+---
+
+Thanks for stopping by! 😊
