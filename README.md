@@ -4,11 +4,13 @@
 
 Hey there! 🚀 I'm a Front-End Web Developer on an exciting coding journey, crafting captivating digital experiences for users to enjoy effortlessly.
 
-## About Myself 😎
+## About Myself 
 
 I'm passionate about web development and currently diving deep into learning Next.js. I strive to create web appsthat are pixel-perfect, user-friendly, and accessible to everyone.
 
-🛠️ Built multiple projects, showcasing my front-end skills with various technologies. I love checking out others' work, and learning in the process.
+🛠️ Built multiple projects while learning , showcasing my front-end skills with various technologies. I love checking out others' work, and learning in the process.
+
+and when im not coding i enjoy going to gym to stay healthy and active and  get stronger 
 
 ## Let's Connect 🤝
 
