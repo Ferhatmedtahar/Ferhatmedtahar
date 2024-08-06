@@ -18,10 +18,29 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
 
 ## Proficiencies and Toolset 🛠️
 
-- **Languages:** HTML, CSS, JavaScript
-- **Styling:** Sass, Tailwind CSS, Styled Components
-- **Libraries & Frameworks:** React, React Query, React Router , React hook form 
-- **Tools:** Git, Supabase, VS Code, Webpack, Vite
+**Languages:**
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Styling:**
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Styled Components](https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
+
+**Libraries & Frameworks:**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![React Query](https://img.shields.io/badge/react--query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white) 
+![React Router](https://img.shields.io/badge/react--router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white) 
+![React Hook Form](https://img.shields.io/badge/react--hook--form-%23EC5990.svg?style=for-the-badge&logo=react-hook-form&logoColor=white)
+
+**Tools:**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Supabase](https://img.shields.io/badge/supabase-%2300FC8A.svg?style=for-the-badge&logo=supabase&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
+![Vite](https://img.shields.io/badge/vite-%23FFC20E.svg?style=for-the-badge&logo=vite&logoColor=white)
+
 
 ---
 
