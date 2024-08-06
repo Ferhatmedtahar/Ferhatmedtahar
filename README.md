@@ -1,6 +1,6 @@
 # Hi, I'm Ferhat Mohamed Tahar! 👋🙂
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ferhat-mohamed-tahar-839672267/)  [![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:ferhattaher00@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ferhat-mohamed-tahar-839672267/) [![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:ferhattaher00@gmail.com)
 
 Hey there! 🚀 I'm a junior Web Developer on an exciting coding journey, crafting captivating digital experiences for users to enjoy effortlessly.
 
