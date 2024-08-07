@@ -14,7 +14,7 @@ and when im not coding i enjoy going to gym to stay healthy and active and  get 
 
 ## Let's Connect 🤝
 
-Excited to chat with developers, designers, or anyone into cool tech stuff. Hit me up at ferhattaher00@gmail.com 💌. Let's dive into some creative coding adventures!
+Excited to chat with developers, designers, or anyone into cool tech stuff. Hit me up at ferhattaher00@gmail.com 👌. Let's dive into some creative coding adventures!
 
 ## Proficiencies and Toolset 🛠️
 
