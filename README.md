@@ -30,12 +30,12 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
 
 **Libraries & Frameworks:**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Query](https://img.shields.io/badge/react--query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white) 
 ![React Router](https://img.shields.io/badge/react--router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white) 
 ![React Hook Form](https://img.shields.io/badge/react--hook--form-%23EC5990.svg?style=for-the-badge&logo=react-hook-form&logoColor=white)
 ![React Credit Cards](https://img.shields.io/badge/react--credit--cards-%23FF385C.svg?style=for-the-badge&logo=react-credit-cards&logoColor=white)
 ![React Hot Toast](https://img.shields.io/badge/react--hot--toast-%23F28B0A.svg?style=for-the-badge&logo=react-hot-toast&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 
 **Tools:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
