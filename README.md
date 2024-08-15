@@ -9,9 +9,9 @@
 
 <h3 align="center">A junior Web Developer on an exciting coding journey</h3>
 <img alt='line' src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
-<a href='#'>
-<img align="right" alt="Coding" width="400"  style ="border-radius:7px ;" src="https://private-user-images.githubusercontent.com/74038190/240825300-17f8a48d-4ab3-4e58-bd5a-bf181f4c3d90.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM3MjczOTUsIm5iZiI6MTcyMzcyNzA5NSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MjUzMDAtMTdmOGE0OGQtNGFiMy00ZTU4LWJkNWEtYmYxODFmNGMzZDkwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE1VDEzMDQ1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVhYTYzYTMwNzZiMWU5MDJhYzk2MWYwYTMzNmI1NTAzYmQ5NmY4MDM1ZmI1YWQ1ZTBiZTcwNzA2M2JiZDY2NzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._2WBV3V6NJG-mb3_GYn1Zvf7CMN1UkN8a-MI_WvnvhY"/>
-</a>
+<p  align="right" href='#'>
+<img alt="Coding" width="400"  style ="border-radius:7px ;" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif"/>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ferhatmedtahar&label=Profile%20views&color=0e75b6&style=flat" alt="Ferhatmedtahar" /> </p>
 
 <p align="left">
