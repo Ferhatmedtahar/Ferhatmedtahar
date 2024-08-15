@@ -29,40 +29,38 @@
 Excited to chat with developers, designers, or anyone into cool tech stuff. Hit me up at <a href="mailto:ferhattaher00@gmail.com">ferhattaher00@gmail.com</a> 👌. Let's dive into some creative coding adventures!
 </p>
 
-<h3 align="left">Proficiencies and Toolset 🛠️</h3>
-
 <h4 align="left">Languages:</h4>
 <p align="left">
-    <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="border-radius: 10px; padding: 5px;" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
 </p>
 
 <h4 align="left">Styling:</h4>
 <p align="left">
-    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/styled-components/styled-components-original.svg" alt="Styled Components" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
 </p>
 
 <h4 align="left">Libraries & Frameworks:</h4>
 <p align="left">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/react--query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/react--router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/react--hook--form-%23EC5990.svg?style=for-the-badge&logo=react-hook-form&logoColor=white" alt="React Hook Form" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/react--credit--cards-%23FF385C.svg?style=for-the-badge&logo=react-credit-cards&logoColor=white" alt="React Credit Cards" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/react--hot--toast-%23F28B0A.svg?style=for-the-badge&logo=react-hot-toast&logoColor=white" alt="React Hot Toast" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Query" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Router" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Hook Form" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Credit Cards" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Hot Toast" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
 </p>
 
 <h4 align="left">Tools:</h4>
 <p align="left">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/supabase-%2300FC8A.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/vite-%23FFC20E.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original-wordmark.svg" alt="Vite" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
 </p>
 
 
