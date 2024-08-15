@@ -55,7 +55,7 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
 </p>
 <h4 align="left">Tools:</h4>
 <p align="left">
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)" alt="Git" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
