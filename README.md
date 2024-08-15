@@ -1,4 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)](#)
+<a href="#">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="MasterHead" style="width: 100%; height: auto;">
+</a>
+
 
 
 <h1 align="center">Hi 👋, I'm Ferhat Mohamed Tahar</h1>
