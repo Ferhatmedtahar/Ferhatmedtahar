@@ -53,16 +53,14 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
     <img src="https://img.shields.io/badge/react--hot--toast-%23F28B0A.svg?style=for-the-badge&logo=react-hot-toast&logoColor=white" alt="React Hot Toast" style="border-radius: 10px; padding: 5px;" />
     <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" style="border-radius: 10px; padding: 5px;" />
 </p>
-
 <h4 align="left">Tools:</h4>
 <p align="left">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/supabase-%2300FC8A.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/vite-%23FFC20E.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original-wordmark.svg" alt="Vite" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
 </p>
-
 
 
 ---
