@@ -34,8 +34,8 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
 <h4 align="left">Languages:</h4>
 <p align="left">
     <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="border-radius: 10px; padding: 5px;" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="border-radius: 10px; padding: 5px;" />
 </p>
 
 <h4 align="left">Styling:</h4>
