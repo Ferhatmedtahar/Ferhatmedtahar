@@ -33,73 +33,38 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
 
 <h4 align="left">Languages:</h4>
 <p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-    </a>
+    <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="border-radius: 10px; padding: 5px;" />
 </p>
 
 <h4 align="left">Styling:</h4>
 <p align="left">
-    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-    </a>
-    <a href="https://styled-components.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
-    </a>
+    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" style="border-radius: 10px; padding: 5px;" />
 </p>
 
 <h4 align="left">Libraries & Frameworks:</h4>
 <p align="left">
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-    </a>
-    <a href="https://react-query.tanstack.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/react--query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" />
-    </a>
-    <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/react--router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
-    </a>
-    <a href="https://react-hook-form.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/react--hook--form-%23EC5990.svg?style=for-the-badge&logo=react-hook-form&logoColor=white" alt="React Hook Form" />
-    </a>
-    <a href="https://www.npmjs.com/package/react-credit-cards" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/react--credit--cards-%23FF385C.svg?style=for-the-badge&logo=react-credit-cards&logoColor=white" alt="React Credit Cards" />
-    </a>
-    <a href="https://react-hot-toast.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/react--hot--toast-%23F28B0A.svg?style=for-the-badge&logo=react-hot-toast&logoColor=white" alt="React Hot Toast" />
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-    </a>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://img.shields.io/badge/react--query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://img.shields.io/badge/react--router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://img.shields.io/badge/react--hook--form-%23EC5990.svg?style=for-the-badge&logo=react-hook-form&logoColor=white" alt="React Hook Form" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://img.shields.io/badge/react--credit--cards-%23FF385C.svg?style=for-the-badge&logo=react-credit-cards&logoColor=white" alt="React Credit Cards" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://img.shields.io/badge/react--hot--toast-%23F28B0A.svg?style=for-the-badge&logo=react-hot-toast&logoColor=white" alt="React Hot Toast" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" style="border-radius: 10px; padding: 5px;" />
 </p>
 
 <h4 align="left">Tools:</h4>
 <p align="left">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    </a>
-    <a href="https://supabase.io/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/supabase-%2300FC8A.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-    </a>
-    <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
-    </a>
-    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/vite-%23FFC20E.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-    </a>
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://img.shields.io/badge/supabase-%2300FC8A.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://img.shields.io/badge/vite-%23FFC20E.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" style="border-radius: 10px; padding: 5px;" />
 </p>
+
 
 
 ---
