@@ -39,6 +39,7 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
 </p>
 
 <h4 align="left">Styling:</h4>
