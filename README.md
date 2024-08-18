@@ -44,21 +44,18 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
 
 <h4 align="left">Styling:</h4>
 <p align="left">
-    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
 </p>
 
 <h4 align="left">Libraries & Frameworks:</h4>
 <p align="left">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/react--query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/react--router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/react--hook--form-%23EC5990.svg?style=for-the-badge&logo=react-hook-form&logoColor=white" alt="React Hook Form" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/react--credit--cards-%23FF385C.svg?style=for-the-badge&logo=react-credit-cards&logoColor=white" alt="React Credit Cards" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/react--hot--toast-%23F28B0A.svg?style=for-the-badge&logo=react-hot-toast&logoColor=white" alt="React Hot Toast" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+     <img src="https://img.shields.io/badge/react--query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
 </p>
+
 <h4 align="left">Tools:</h4>
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
