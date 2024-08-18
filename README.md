@@ -44,16 +44,16 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
 
 <h4 align="left">Styling:</h4>
 <p align="left">
-    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/styledcomponents/styledcomponents-original.svg" alt="Styled Components" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
 </p>
 
 <h4 align="left">Libraries & Frameworks:</h4>
 <p align="left">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
-     <img src="https://img.shields.io/badge/react--query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+   <img src="https://img.shields.io/badge/react--query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" style="border-radius: 10px; padding: 5px;" /> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
 </p>
 
 <h4 align="left">Tools:</h4>
