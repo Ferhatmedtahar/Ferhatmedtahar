@@ -45,7 +45,7 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
 <h4 align="left">Styling:</h4>
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/styledcomponents/styledcomponents-original.svg" alt="Styled Components" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
 </p>
 
@@ -53,6 +53,7 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
    <img src="https://img.shields.io/badge/react--query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" style="border-radius: 10px; padding: 5px;" /> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
 </p>
 
