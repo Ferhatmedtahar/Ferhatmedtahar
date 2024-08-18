@@ -46,7 +46,7 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/styledcomponents/styledcomponents-original.svg" alt="Styled Components" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+<img src="https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" style="border-radius: 10px; padding: 5px;" />
 </p>
 
 <h4 align="left">Libraries & Frameworks:</h4>
@@ -64,6 +64,7 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Vite" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+ <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 </p>
 
 
