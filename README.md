@@ -65,6 +65,10 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Vite" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="node.js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="express.js" width="40" height="40"/>
+
 </p>
 
 
