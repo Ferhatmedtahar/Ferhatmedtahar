@@ -68,6 +68,8 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express.js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jest.svg?sanitize=true" alt="Jest" width="40" height="40"/>
+
 
 </p>
 
