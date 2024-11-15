@@ -34,13 +34,19 @@
 Excited to chat with developers, designers, or anyone into cool tech stuff. Hit me up at <a href="mailto:ferhattaher00@gmail.com">ferhattaher00@gmail.com</a> 👌. Let's dive into some creative coding adventures!
 </p>
 
+[![LeetCode user ferhattaher00](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fraoufnaoum15&logo=leetcode&logoColor=yellow)](https://leetcode.com/ferhat_tahar/)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ferhatmedtahar" alt="Ferhatmedtahar" /></a> </p>
+
+- 👨‍💻💡 Know about my experiences and  All of my projects are available at [Ferhat's Portfolio](https://portfolio-chi-nine-57.vercel.app/)
+
 <h4 align="left">Languages and Tools</h4>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
 <!-- styling -->
  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
   <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=styledcomponents" alt="Styled Components" style="border-radius: 10px; padding: 5px;" />
+<img src="https://skillicons.dev/icons?i=styledcomponents" alt="Styled Components" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
 
  <!--javascript and typescript--> 
  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
@@ -69,8 +75,8 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
 <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ferhatmedtahar&show_icons=true&locale=en&layout=compact" alt="ferhatMohamedTahar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ferhatmedtahar&show_icons=true&locale=en&layout=compact&theme=dark" alt="ferhatMohamedTahar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ferhatmedtahar&show_icons=true&locale=en" alt="ferhatMohamedTahar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ferhatmedtahar&show_icons=true&locale=en&theme=dark" alt="ferhatMohamedTahar" /></p>
 
 
