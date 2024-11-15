@@ -60,14 +60,17 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
  <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/>
  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
+ <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=nodejs" alt="node.js" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=express" alt="express.js" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=jest" alt="Jest" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
-
-
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ferhatmedtahar&show_icons=true&locale=en&layout=compact" alt="ferhatMohamedTahar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ferhatmedtahar&show_icons=true&locale=en" alt="ferhatMohamedTahar" /></p>
 
 
