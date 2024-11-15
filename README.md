@@ -59,6 +59,7 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
     <a href="https://www.typescriptlang.org/docs/" target="_blank">
         <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" />
     </a>
+<p align="left">
  <a href="https://react.dev/" target="_blank">
         <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" />
     </a>
@@ -81,7 +82,7 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
     <a href="https://graphql.org/learn/" target="_blank">
         <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="40" height="40" />
     </a>
-   
+
 
    <a href="https://www.mongodb.com/docs/" target="_blank">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" />
@@ -92,6 +93,9 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
     <a href="https://www.postgresql.org/docs/" target="_blank">
         <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" width="40" height="40" />
     </a>
+   </p>
+   
+   <p align="left">
    <a href="https://sqlite.org/docs.html" target="_blank">
         <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40" height="40" />
     </a>
@@ -118,7 +122,7 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
     <a href="https://vitejs.dev/guide/" target="_blank">
         <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="40" height="40" />
     </a>
-    
+  </p>  
   
 
    <a href="https://dev.to/" target="_blank">
