@@ -40,8 +40,8 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
 
 <h4 align="left">Languages and Tools</h4>
 <p align="left">
-    <!-- Languages -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+ 
+   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
@@ -53,14 +53,12 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
     <a href="https://styled-components.com/docs" target="_blank">
         <img src="https://skillicons.dev/icons?i=styledcomponents" alt="Styled Components" width="40" height="40" />
     </a>
- <!-- JavaScript and TypeScript -->
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" />
     </a>
     <a href="https://www.typescriptlang.org/docs/" target="_blank">
         <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" />
     </a>
-       <!-- React & nextjs & state managment -->
  <a href="https://react.dev/" target="_blank">
         <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" />
     </a>
@@ -71,7 +69,6 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
         <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40" />
     </a>
 
-     <!-- Backend & Other -->
    <a href="https://nodejs.org/en/docs/" target="_blank">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" />
     </a>
@@ -86,7 +83,6 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
     </a>
    
 
-    <!-- Databases -->
    <a href="https://www.mongodb.com/docs/" target="_blank">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" />
     </a>
@@ -109,8 +105,7 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
     <a href="https://www.postman.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40" />
     </a>
- 
-  <!-- Tools -->
+
    <a href="https://git-scm.com/doc" target="_blank">
         <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" />
     </a>
