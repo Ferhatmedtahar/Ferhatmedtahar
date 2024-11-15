@@ -34,46 +34,41 @@
 Excited to chat with developers, designers, or anyone into cool tech stuff. Hit me up at <a href="mailto:ferhattaher00@gmail.com">ferhattaher00@gmail.com</a> 👌. Let's dive into some creative coding adventures!
 </p>
 
-<h4 align="left">Languages:</h4>
+<h4 align="left">Languages and Tools</h4>
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+<!-- styling -->
+ <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=styledcomponents" alt="Styled Components" style="border-radius: 10px; padding: 5px;" />
+
+ <!--javascript and typescript--> 
+ <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+     <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+
+<!--react-->
+   <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+      <img src="https://images.seeklogo.com/logo-png/43/1/react-query-logo-png_seeklogo-435661.png?v=638670052930000000" alt="React Query" style="border-radius: 10px; padding: 5px;" />
+ <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> 
+ <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+
+<!--tools-->
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+ <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/>
+ <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
+ <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=nodejs" alt="node.js" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=express" alt="express.js" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=jest" alt="Jest" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
+
+
 </p>
 
-<h4 align="left">Styling:</h4>
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-<img src="https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" style="border-radius: 10px; padding: 5px;" />
-</p>
 
-<h4 align="left">Libraries & Frameworks:</h4>
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
-   <img src="https://img.shields.io/badge/react--query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" style="border-radius: 10px; padding: 5px;" /> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
-</p>
-
-<h4 align="left">Tools:</h4>
-<p align="left">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Vite" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
- <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express.js" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jest.svg?sanitize=true" alt="Jest" width="40" height="40"/>
-
-
-</p>
-
-
----
-
-<h3 align="center">Thanks for stopping by! 😊</h3>
