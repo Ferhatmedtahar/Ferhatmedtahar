@@ -48,7 +48,6 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
 
 <!--react-->
    <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
-      <img src="https://images.seeklogo.com/logo-png/43/1/react-query-logo-png_seeklogo-435661.png?v=638670052930000000" alt="React Query" style="border-radius: 10px; padding: 5px;" />
  <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> 
  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
 
