@@ -34,7 +34,7 @@
 Excited to chat with developers, designers, or anyone into cool tech stuff. Hit me up at <a href="mailto:ferhattaher00@gmail.com">ferhattaher00@gmail.com</a> 👌. Let's dive into some creative coding adventures!
 </p>
 
-[![LeetCode user ferhattaher00](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fraoufnaoum15&logo=leetcode&logoColor=yellow)](https://leetcode.com/ferhat_tahar/)
+[![LeetCode user ferhat_tahar](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Problems%20Solved&query=solved&url=https://leetcode-badge.vercel.app/api/users/ferhat_tahar&logo=leetcode&logoColor=yellow)](https://leetcode.com/ferhat_tahar/)
 
 - 👨‍💻💡 Know about my experiences and  All of my projects are available at [Ferhat's Portfolio](https://portfolio-chi-nine-57.vercel.app/)
 
