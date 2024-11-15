@@ -36,47 +36,110 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
 
 [![LeetCode user ferhattaher00](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fraoufnaoum15&logo=leetcode&logoColor=yellow)](https://leetcode.com/ferhat_tahar/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ferhatmedtahar" alt="Ferhatmedtahar" /></a> </p>
-
 - 👨‍💻💡 Know about my experiences and  All of my projects are available at [Ferhat's Portfolio](https://portfolio-chi-nine-57.vercel.app/)
 
 <h4 align="left">Languages and Tools</h4>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
-<!-- styling -->
- <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=styledcomponents" alt="Styled Components" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <!-- Languages -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" />
+    </a>
+    <a href="https://tailwindcss.com/docs" target="_blank">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40" />
+    </a>
+    <a href="https://styled-components.com/docs" target="_blank">
+        <img src="https://skillicons.dev/icons?i=styledcomponents" alt="Styled Components" width="40" height="40" />
+    </a>
+ <!-- JavaScript and TypeScript -->
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" />
+    </a>
+    <a href="https://www.typescriptlang.org/docs/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" />
+    </a>
+       <!-- React & nextjs & state managment -->
+ <a href="https://react.dev/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" />
+    </a>
+    <a href="https://redux.js.org/introduction/getting-started" target="_blank">
+        <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40" height="40" />
+    </a>
+    <a href="https://nextjs.org/docs" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40" />
+    </a>
 
- <!--javascript and typescript--> 
- <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
-     <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+     <!-- Backend & Other -->
+   <a href="https://nodejs.org/en/docs/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" />
+    </a>
+    <a href="https://expressjs.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40" />
+    </a>
+     <a href="https://www.prisma.io/docs" target="_blank">
+        <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40" />
+    </a>
+    <a href="https://graphql.org/learn/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="40" height="40" />
+    </a>
+   
 
-<!--react-->
-   <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
- <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> 
- <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
+    <!-- Databases -->
+   <a href="https://www.mongodb.com/docs/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" />
+    </a>
+     <a href="https://dev.mysql.com/doc/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" />
+    </a>
+    <a href="https://www.postgresql.org/docs/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" width="40" height="40" />
+    </a>
+   <a href="https://sqlite.org/docs.html" target="_blank">
+        <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40" height="40" />
+    </a>
 
-<!--tools-->
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
-    <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="40" height="40" style="border-radius: 10px; padding: 5px;" />
- <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/>
- <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
- <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
- <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=nodejs" alt="node.js" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=express" alt="express.js" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=jest" alt="Jest" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
+   <a href="https://jestjs.io/docs/getting-started" target="_blank">
+        <img src="https://skillicons.dev/icons?i=jest" alt="Jest" width="40" height="40" />
+    </a>
+    <a href="https://docs.docker.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" />
+    </a>
+    <a href="https://www.postman.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40" />
+    </a>
+ 
+  <!-- Tools -->
+   <a href="https://git-scm.com/doc" target="_blank">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" />
+    </a>
+    <a href="https://supabase.com/docs" target="_blank">
+        <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="40" height="40" />
+    </a>
+    <a href="https://code.visualstudio.com/docs" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40" />
+    </a>
+    <a href="https://vitejs.dev/guide/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="40" height="40" />
+    </a>
+    
+  
+
+   <a href="https://dev.to/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" width="40" height="40" />
+    </a>
+    <a href="https://stackoverflow.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" width="40" height="40" />
+    </a>
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ferhatmedtahar&show_icons=true&locale=en&layout=compact&theme=dark" alt="ferhatMohamedTahar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ferhatmedtahar&show_icons=true&locale=en&theme=dark" alt="ferhatMohamedTahar" /></p>
 
+
+
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ferhatmedtahar" alt="Ferhatmedtahar" /></a> </p>-->
 
