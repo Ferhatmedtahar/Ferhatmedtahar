@@ -1,5 +1,4 @@
 
-
 <p  align="center"> <img alt='coding' src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" />
  </p>
 
@@ -36,7 +35,7 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
 
 [![LeetCode user ferhat_tahar](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Problems%20Solved&query=solved&url=https://leetcode-badge.vercel.app/api/users/ferhat_tahar&logo=leetcode&logoColor=yellow)](https://leetcode.com/ferhat_tahar/)
 
-- 👨‍💻💡 Know about my experiences and  All of my projects are available at [Ferhat's Portfolio](https://portfolio-chi-nine-57.vercel.app/)
+- 👨‍💻💡 Know about my experiences and my projects are available at [Ferhat's Portfolio](https://portfolio-chi-nine-57.vercel.app/)
 
 <h4 align="left">Languages and Tools</h4>
 <p align="left">
