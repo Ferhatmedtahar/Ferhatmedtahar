@@ -137,6 +137,7 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ferhatmedtahar&show_icons=true&locale=en&theme=dark" alt="ferhatMohamedTahar" /></p>
 
+[![Ferhat's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ferhat&theme=tokyonight)](https://wakatime.com/@Ferhat)
 
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ferhatmedtahar" alt="Ferhatmedtahar" /></a> </p>-->
