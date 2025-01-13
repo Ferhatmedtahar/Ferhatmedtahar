@@ -72,6 +72,9 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
    <a href="https://nodejs.org/en/docs/" target="_blank">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" />
     </a>
+      <a href="https://nestjs.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nest" alt="nest.js" width="40" height="40" />
+    </a>
     <a href="https://expressjs.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40" />
     </a>
