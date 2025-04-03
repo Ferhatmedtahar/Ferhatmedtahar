@@ -1,6 +1,4 @@
-
-<p  align="center"> <img alt='coding' src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" />
- </p>
+<p  align="center"> <img alt='coding' src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" /> </p>
 
 
 <h1 align="center">Hi 👋, I'm Ferhat Mohamed Tahar</h1>
@@ -136,12 +134,23 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ferhatmedtahar&show_icons=true&locale=en&layout=compact&theme=dark" alt="ferhatMohamedTahar" /></p>
+<div align="center">
+  <img src="https://git-hub-streak-stats.vercel.app?user=Ferhatmedtahar&theme=radical" alt="GitHub Streak" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ferhatmedtahar&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ferhatmedtahar&show_icons=true&locale=en&theme=dark" alt="ferhatMohamedTahar" /></p>
+<div align="center" style="margin-top: 15px;">
+  <a href="https://wakatime.com/@Ferhat">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ferhat&theme=tokyonight" alt="Wakatime Stats"/>
+  </a>
+</div>
+ <!--
+ <p align="right" ><img src="https://git-hub-streak-stats.vercel.app?user=Ferhatmedtahar&theme=radical" alt="GitHub Streak" /></p>
+<p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ferhatmedtahar&show_icons=true&locale=en&theme=dark" alt="ferhatMohamedTahar" /></p>
+<a align="right" href="https://wakatime.com/@Ferhat">   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ferhat&theme=tokyonight"/></a>
+ -->
 
-[![Ferhat's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ferhat&theme=tokyonight)](https://wakatime.com/@Ferhat)
 
-
+<!--[![Ferhat's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ferhat&theme=tokyonight)](https://wakatime.com/@Ferhat)-->
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ferhatmedtahar" alt="Ferhatmedtahar" /></a> </p>-->
-
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ferhatmedtahar&show_icons=true&locale=en&layout=compact&theme=dark" alt="ferhatMohamedTahar" /></p>-->
