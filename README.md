@@ -47,9 +47,7 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
     <a href="https://tailwindcss.com/docs" target="_blank">
         <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40" />
     </a>
-    <a href="https://styled-components.com/docs" target="_blank">
-        <img src="https://skillicons.dev/icons?i=styledcomponents" alt="Styled Components" width="40" height="40" />
-    </a>
+   
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" />
     </a>
