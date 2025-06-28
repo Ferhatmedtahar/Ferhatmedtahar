@@ -54,6 +54,12 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
     <a href="https://www.typescriptlang.org/docs/" target="_blank">
         <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" />
     </a>
+     <a href="https://www.python.org/doc/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python"  width="40" height="40" />
+  </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40" />
+  </a>
 <p align="left">
  <a href="https://react.dev/" target="_blank">
         <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" />
@@ -104,6 +110,15 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
     <a href="https://docs.docker.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" />
     </a>
+      <a href="https://docs.github.com/en/actions" target="_blank">
+    <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="40" height="40" />
+  </a>
+  <a href="https://kubernetes.io/docs/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40" />
+  </a>
+  <a href="https://nginx.org/en/docs/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx"  width="40" height="40" />
+  </a>
     <a href="https://www.postman.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40" />
     </a>
@@ -120,6 +135,23 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
     <a href="https://vitejs.dev/guide/" target="_blank">
         <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="40" height="40" />
     </a>
+
+  </a>
+
+  <a href="https://www.figma.com/resources/learn-design/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40" />
+  </a>
+
+  <a href="https://pnpm.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm" width="40" height="40" />
+  </a>
+ 
+  <a href="https://ubuntu.com/tutorials" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="40" height="40" />
+  </a>
+  <a href="https://vercel.com/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40" />
+  </a>
   </p>  
   
 
