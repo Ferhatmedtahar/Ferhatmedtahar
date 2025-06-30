@@ -14,11 +14,11 @@
 
 
 <p align="left">
-🚀 I'm passionate about web development and currently diving deep into learning Next.js. I strive to create web apps that are pixel-perfect, user-friendly, and accessible to everyone.
+🚀 I'm passionate about web development and currently focused on mastering Docker, Kubernetes, frontend animations with GSAP, security and networking , and architecting robust software systems.
 </p>
 
 <p align="left">
-🛠️ I've built multiple projects while learning, showcasing my front-end skills with various technologies. I love checking out others' work and learning in the process.
+🛠️ I've built multiple full-stack projects, showcasing my skills across both front-end and back-end technologies. I enjoy exploring others' work and continuously learning from the community.
 </p>
 
 <p align="left">
