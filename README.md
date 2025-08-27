@@ -164,7 +164,45 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
 </p>
 
 
-<div align="center">
+
+
+
+<div style="background: linear-gradient(to bottom right, #000000, #001122, #002244, #003366, #004488);">
+<table width="100%" style="background: linear-gradient(135deg, #000000 0%, #001122 25%, #002244 50%, #003366 75%, #004488 100%);"> 
+<tr> 
+<td width="50%"> 
+<p align="center"> 
+<a href="https://github.com/Ferhatmedtahar"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ferhatmedtahar&count_private=true&show_icons=true&theme=dark&bg_color=0,000000,002244,004488&title_color=66ccff&text_color=66ccff&icon_color=66ccff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" /> 
+</a> 
+</p> 
+</td> 
+<td width="50%"> 
+<p align="center"> 
+<a href="https://github.com/Ferhatmedtahar"> 
+<img src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=Ferhatmedtahar&locale=en&type=svg&hide_border=true&background=0,000000,002244,004488&fire=66ccff&ring=66ccff&sideNums=66ccff&sideLabels=66ccff&dates=66ccff&currStreakNum=66ccff" alt="My GitHub streak stats" /> 
+</a> 
+</p> 
+</td> 
+</tr> 
+<tr> 
+<td width="50%"> 
+  <a href="https://wakatime.com/@Ferhat">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ferhat&theme=tokyonight" alt="Wakatime Stats"/>
+  </a>
+</td> 
+<td width="50%"> 
+<p align="center"> 
+<a href="https://github.com/Ferhatmedtahar"> 
+<img align="center" src="https://github-contributor-stats.vercel.app/api?username=Ferhatmedtahar&limit=3&theme=dark&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,002244,004488&title_color=66ccff&text_color=66ccff&icon_color=66ccff" alt="Top Contributions" /> 
+</a> 
+</p> 
+</td> 
+</tr> 
+</table>
+</div>
+
+<!--<div align="center">
   <img src="https://git-hub-streak-stats.vercel.app?user=Ferhatmedtahar&theme=radical" alt="GitHub Streak" style="margin-right: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=Ferhatmedtahar&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </div>
@@ -173,7 +211,9 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
   <a href="https://wakatime.com/@Ferhat">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ferhat&theme=tokyonight" alt="Wakatime Stats"/>
   </a>
-</div>
+
+
+</div>-->
  <!--
  <p align="right" ><img src="https://git-hub-streak-stats.vercel.app?user=Ferhatmedtahar&theme=radical" alt="GitHub Streak" /></p>
 <p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ferhatmedtahar&show_icons=true&locale=en&theme=dark" alt="ferhatMohamedTahar" /></p>
