@@ -1,10 +1,10 @@
 <p  align="center"> <img alt='coding' src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" /> </p>
 
 
-<h1 align="center">Hi 👋, I'm Ferhat Mohamed Tahar</h1>
+<h1 align="center">Ferhat Mohamed Tahar</h1>
 
 
-<h3 align="center">A Web Developer on an exciting coding journey</h3>
+<h3 align="center">Software Engineer|Full Stack Developer</h3>
 <img alt='line' src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ferhatmedtahar&label=Profile%20views&color=0e75b6&style=flat" alt="Ferhatmedtahar" /> </p>
@@ -14,15 +14,15 @@
 
 
 <p align="left">
-🚀 I'm passionate about web development and currently focused on mastering Docker, Kubernetes, frontend animations with GSAP, security and networking , and architecting robust software systems.
+ passionate about web development and currently focused on System Design, security and networking , and architecting robust software systems.
 </p>
 
 <p align="left">
-🛠️ I've built multiple full-stack projects, showcasing my skills across both front-end and back-end technologies. I enjoy exploring others' work and continuously learning from the community.
+ I've built multiple full-stack projects, showcasing my skills across both front-end and back-end technologies. I enjoy exploring others' work and continuously learning from the community.
 </p>
 
 <p align="left">
-🏋️ When I'm not coding, I enjoy going to the gym to stay healthy, active, and strong.
+When I'm not coding, I enjoy going to the gym or biking to stay healthy, active, and strong.
 </p>
 
 <h3 align="left">Let's Connect 🤝</h3>
@@ -33,7 +33,9 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
 
 [![LeetCode user ferhat_tahar](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Problems%20Solved&query=solved&url=https://leetcode-badge.vercel.app/api/users/ferhat_tahar&logo=leetcode&logoColor=yellow)](https://leetcode.com/ferhat_tahar/)
 
-- 👨‍💻💡 Know about my experiences and my projects on [Ferhat's Portfolio](https://ferhatmedtahar.pro/)
+- Know about my experiences and my projects on [Ferhat's Portfolio](https://ferhatmedtahar.pro/)
+- Check out my [My cv](https://docs.google.com/document/d/1b61uJTEZlvdLQM3PywCAdF6AM_XkCo81DhYovWx41ZY/edit?usp=sharing)
+- Connect with Me: [LinkedIn](https://www.linkedin.com/in/ferhatmohamedtahar)
 
 <h4 align="left">Languages and Tools</h4>
 <p align="left">
