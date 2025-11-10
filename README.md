@@ -34,7 +34,7 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
 [![LeetCode user ferhat_tahar](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Problems%20Solved&query=solved&url=https://leetcode-badge.vercel.app/api/users/ferhat_tahar&logo=leetcode&logoColor=yellow)](https://leetcode.com/ferhat_tahar/)
 
 - Know about my experiences and my projects on [Ferhat's Portfolio](https://ferhatmedtahar.pro/)
-- Check out my [My cv](https://docs.google.com/document/d/1b61uJTEZlvdLQM3PywCAdF6AM_XkCo81DhYovWx41ZY/edit?usp=sharing)
+- Check out my [My cv](https://docs.google.com/document/d/140VIyAs2xIImg9RBhLzjPs38oHcqNkl9uI4obmuWc9g/edit?usp=sharing)
 - Connect with Me: [LinkedIn](https://www.linkedin.com/in/ferhatmohamedtahar)
 
 <h4 align="left">Languages and Tools</h4>
