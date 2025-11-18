@@ -202,6 +202,12 @@ Excited to chat with developers, designers, or anyone into cool tech stuff. Hit 
 </td> 
 </tr> 
 </table>
+  <p align="center"> 
+<a href="https://github.com/Ferhatmedtahar"> 
+<img src="https://github-profile-trophy.vercel.app/?username=Ferhatmedtahar&theme=algolia&column=5&margin-w=4&margin-h=4" alt="github thropy" /> 
+</a> 
+</p> 
+
 </div>
 
 <!--<div align="center">
