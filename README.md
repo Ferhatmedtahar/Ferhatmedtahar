@@ -6,31 +6,20 @@
 
 <br />
 
-<!-- Interactive Link Cards -->
-<table width="100%" border="0" style="border-collapse: collapse;">
-  <tr>
-    <td width="25%" align="left" style="border: none; padding: 4px;">
-      <a href="https://ferhatmedtahar.vercel.app/" target="_blank">
-        <img src="./assets/card-portfolio.svg" width="100%" alt="Portfolio" />
-      </a>
-    </td>
-    <td width="25%" align="left" style="border: none; padding: 4px;">
-      <a href="https://www.linkedin.com/in/ferhatmohamedtahar" target="_blank">
-        <img src="./assets/card-linkedin.svg" width="100%" alt="LinkedIn" />
-      </a>
-    </td>
-    <td width="25%" align="left" style="border: none; padding: 4px;">
-      <a href="https://drive.google.com/file/d/1dxw2cwSwoennIq7e4ihB9Vp_sEOCmi5c/view?usp=sharing" target="_blank">
-        <img src="./assets/card-resume.svg" width="100%" alt="Resume" />
-      </a>
-    </td>
-    <td width="25%" align="left" style="border: none; padding: 4px;">
-      <a href="mailto:ferhattaher00@gmail.com" target="_blank">
-        <img src="./assets/card-email.svg" width="100%" alt="Email" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://ferhatmedtahar.vercel.app/" target="_blank">
+    <img src="./assets/card-portfolio.svg" width="24%" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/ferhatmohamedtahar" target="_blank">
+    <img src="./assets/card-linkedin.svg" width="24%" alt="LinkedIn" />
+  </a>
+  <a href="https://drive.google.com/file/d/1dxw2cwSwoennIq7e4ihB9Vp_sEOCmi5c/view?usp=sharing" target="_blank">
+    <img src="./assets/card-resume.svg" width="24%" alt="Resume" />
+  </a>
+  <a href="mailto:ferhattaher00@gmail.com" target="_blank">
+    <img src="./assets/card-email.svg" width="24%" alt="Email" />
+  </a>
+</p>
 
 <br />
 
@@ -70,33 +59,17 @@
 <br />
 
 <!-- GitHub Stats Grid -->
-<div>
-  <table width="100%">
-    <tr>
-      <td width="50%" align="left">
-        <a href="https://github.com/Ferhatmedtahar">
-          <img src="https://github-readme-stats-fast.vercel.app/api?username=Ferhatmedtahar&count_private=true&show_icons=true&bg_color=0,000000,002244,004488&title_color=66ccff&text_color=66ccff&icon_color=66ccff&border_color=004488" alt="GitHub Stats" width="100%" />
-        </a>
-      </td>
-      <td width="50%" align="left">
-        <a href="https://github.com/Ferhatmedtahar">
-          <img src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=Ferhatmedtahar&locale=en&type=svg&hide_border=true&background=0,000000,002244,004488&fire=66ccff&ring=66ccff&sideNums=66ccff&sideLabels=66ccff&dates=66ccff&currStreakNum=66ccff" alt="GitHub Streak Stats" width="100%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="left">
-        <a href="https://github.com/Ferhatmedtahar">
-          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ferhatmedtahar&layout=compact&bg_color=0,000000,002244,004488&title_color=66ccff&text_color=66ccff&icon_color=66ccff&border_color=004488&langs_count=5" alt="Top Languages" width="80%" />
-        </a>
-      </td>
-      <td width="50%" align="left">
-        <!-- WakaTime Stats Commented Out
-        <a href="https://wakatime.com/@Ferhat">
-          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ferhat&bg_color=0,000000,002244,004488&title_color=66ccff&text_color=66ccff&icon_color=66ccff" alt="Wakatime Stats" width="100%" />
-        </a>
-        -->
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="left">
+  <a href="https://github.com/Ferhatmedtahar">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Ferhatmedtahar&count_private=true&show_icons=true&bg_color=0,000000,002244,004488&title_color=66ccff&text_color=66ccff&icon_color=66ccff&border_color=004488" alt="GitHub Stats" width="49%" />
+  </a>
+  <a href="https://github.com/Ferhatmedtahar">
+    <img src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=Ferhatmedtahar&locale=en&type=svg&hide_border=true&background=0,000000,002244,004488&fire=66ccff&ring=66ccff&sideNums=66ccff&sideLabels=66ccff&dates=66ccff&currStreakNum=66ccff" alt="GitHub Streak Stats" width="49%" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Ferhatmedtahar">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ferhatmedtahar&layout=compact&bg_color=0,000000,002244,004488&title_color=66ccff&text_color=66ccff&icon_color=66ccff&border_color=004488&langs_count=5" alt="Top Languages" width="49%" />
+  </a>
+</p>
