@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 72" width="100%" height="100%">
+  <style>
+    @media (prefers-color-scheme: dark) {
+      .card-bg { fill: #021038; stroke: #162c7d; }
+      .card-label { fill: #84b4f3; }
+      .card-title { fill: #d4e3fa; }
+      .arrow { fill: #4f86e2; }
+    }
+    @media (prefers-color-scheme: light) {
+      .card-bg { fill: #f0f4ff; stroke: #b6d7fc; }
+      .card-label { fill: #173a9b; }
+      .card-title { fill: #061059; }
+      .arrow { fill: #2a6fda; }
+    }
+  </style>
+  <rect width="248" height="70" x="1" y="1" rx="16" ry="16" class="card-bg" stroke-width="1.5" />
+  
+  <!-- File CV Tabler Icon -->
+  <g transform="translate(12, 21) scale(1.2)" fill="#38bdf8">
+    <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+    <path d="M12 2l.117 .007a1 1 0 0 1 .876 .876l.007 .117v4l.005 .15a2 2 0 0 0 1.838 1.844l.157 .006h4l.117 .007a1 1 0 0 1 .876 .876l.007 .117v9a3 3 0 0 1 -2.824 2.995l-.176 .005h-10a3 3 0 0 1 -2.995 -2.824l-.005 -.176v-14a3 3 0 0 1 2.824 -2.995l.176 -.005zm-2.5 8a2.5 2.5 0 0 0 -2.5 2.5v3a2.5 2.5 0 1 0 5 0a1 1 0 0 0 -2 0a.5 .5 0 1 1 -1 0v-3a.5 .5 0 1 1 1 0a1 1 0 0 0 2 0a2.5 2.5 0 0 0 -2.5 -2.5m6.743 .03a1 1 0 0 0 -1.213 .727l-.53 2.119l-.53 -2.119a1 1 0 1 0 -1.94 .486l1.5 6c.252 1.01 1.688 1.01 1.94 0l1.5 -6a1 1 0 0 0 -.727 -1.213m-1.244 -7.031l4.001 4.001h-4z" />
+  </g>
+
+  <!-- Content -->
+  <text x="50" y="30" class="card-label" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="1">RESUME / CV</text>
+  <text x="50" y="48" class="card-title" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700">View Resume</text>
+  
+  <!-- Arrow -->
+  <text x="226" y="24" class="arrow" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14">↗</text>
+</svg>

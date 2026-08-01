@@ -1,0 +1,34 @@
+<svg width="880" height="210" viewBox="0 0 880 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ferhat Mohamed Tahar - Full Stack Engineer</title>
+  <desc id="desc">turning ideas into digital experiences.</desc>
+  <defs>
+    <linearGradient id="blue-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4f86e2" />
+      <stop offset="50%" stop-color="#326dff" />
+      <stop offset="100%" stop-color="#245fd0" />
+    </linearGradient>
+  </defs>
+  <style>
+    .label { font: 600 13px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; letter-spacing: 2.5px; fill: #84b4f3; }
+    .headline-1 { font: italic 600 46px Georgia, 'Times New Roman', serif; fill: #d4e3fa; }
+    .headline-2 { font: italic 700 46px Georgia, 'Times New Roman', serif; fill: url(#blue-gradient); }
+    .copy { font: 400 16px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #b6d7fc; }
+    .rule { stroke: #173a9b; stroke-width: 1; } 
+    @media (prefers-color-scheme: dark) {
+      .label { fill: #84b4f3; }
+      .headline-1 { fill: #d4e3fa; }
+      .copy { fill: #b6d7fc; }
+      .rule { stroke: #173a9b; }
+    }
+  </style>
+  <text x="2" y="26" class="label">FERHAT MOHAMED TAHAR / FULL STACK ENGINEER</text>
+  <line x1="2" y1="45" x2="878" y2="45" class="rule" />
+  
+  <text x="2" y="113">
+    <tspan class="headline-1">turning ideas into </tspan>
+    <tspan class="headline-2">digital experiences.</tspan>
+  </text>
+  
+  <text x="4" y="158" class="copy">creating intuitive, visually stunning and highly functional web applications.</text>
+  <line x1="2" y1="192" x2="878" y2="192" class="rule" />
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 250 72" width="100%" height="100%">
+  <defs>
+    <linearGradient id="gmail-a" x1="165" x2="165" y1="44" y2="166" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0454,0,0,0.0454,12.5,21.8)">
+      <stop stop-color="#60d673" />
+      <stop offset=".17" stop-color="#42c868" />
+      <stop offset=".39" stop-color="#0ebc5f" />
+      <stop offset=".62" stop-color="#00a9bb" />
+      <stop offset=".86" stop-color="#3c90ff" />
+      <stop offset="1" stop-color="#3186ff" />
+    </linearGradient>
+    <linearGradient id="gmail-b" x1="8" x2="184" y1="46.13" y2="46.13" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0454,0,0,0.0454,12.5,21.8)">
+      <stop offset=".08" stop-color="#ff63a0" />
+      <stop offset=".3" stop-color="#fc413d" />
+      <stop offset=".5" stop-color="#fc413d" />
+      <stop offset=".65" stop-color="#fc413d" />
+      <stop offset=".72" stop-color="#fc5c30" />
+      <stop offset=".86" stop-color="#feb10c" />
+      <stop offset=".91" stop-color="#fec700" />
+      <stop offset=".96" stop-color="#ffdb0f" />
+    </linearGradient>
+  </defs>
+  <style>
+    @media (prefers-color-scheme: dark) {
+      .card-bg { fill: #021038; stroke: #162c7d; }
+      .card-label { fill: #84b4f3; }
+      .card-title { fill: #d4e3fa; }
+      .arrow { fill: #4f86e2; }
+    }
+    @media (prefers-color-scheme: light) {
+      .card-bg { fill: #f0f4ff; stroke: #b6d7fc; }
+      .card-label { fill: #173a9b; }
+      .card-title { fill: #061059; }
+      .arrow { fill: #2a6fda; }
+    }
+  </style>
+  <rect width="248" height="70" x="1" y="1" rx="16" ry="16" class="card-bg" stroke-width="1.5" />
+  
+  <!-- Gmail 2026 Logo -->
+  <g transform="translate(12, 21) scale(0.0454)">
+    <path fill="url(#gmail-a)" d="M 627.27193,81.819216 H 799.99875 V 581.8179 c 0,30.12265 -24.42266,54.54532 -54.54531,54.54532 h -90.90885 a 27.272655,27.272655 0 0 1 -27.27266,-27.27266 z" />
+    <path fill="#fc413d" d="M 172.72768,81.819216 H 0.00087 V 581.8179 c 0,30.12265 24.42266,54.54532 54.54531,54.54532 h 90.908853 a 27.272655,27.272655 0 0 0 27.27266,-27.27266 z" />
+    <path fill="url(#gmail-b)" d="M 141.93685,20.255746 C 105.42331,-10.435083 50.946177,-5.7169131 20.255349,30.796627 -10.435479,67.305622 -5.7173098,121.78275 30.79623,152.47813 l 345.80818,290.6765 a 36.36354,36.36354 0 0 0 46.79533,0 L 769.20792,152.47358 C 805.71691,121.78275 810.43508,67.305622 779.74426,30.792081 749.05343,-5.7169131 694.5763,-10.435083 658.0673,20.255746 L 399.9998,237.18245 Z" />
+  </g>
+
+  <!-- Content -->
+  <text x="50" y="30" class="card-label" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="1">CONTACT</text>
+  <text x="50" y="48" class="card-title" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700">ferhattaher00@gmail.com</text>
+  
+  <!-- Arrow -->
+  <text x="226" y="24" class="arrow" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14">↗</text>
+</svg>
