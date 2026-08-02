@@ -40,12 +40,13 @@
 <br />
 
 ### About Me
+Full Stack Software Engineer, focused on shipping production software end-to-end: architecture, backend, frontend, and deployment.
 
-- **Full-Stack Ownership**: 3+ years of experience delivering 20+ production-grade web applications from architecture to live deployment.
-- **Frontend & Systems Architecture**: Specializing in **Next.js**, **React.js**, and **TypeScript**, engineering fast, scalable, and responsive user experiences.
-- **Backend & API Systems**: Skilled in building high-performance REST APIs, microservices, and serverless backends using **Nest.js**, **Hono**, **Fastify**, **Express.js**, **PostgreSQL**, **TypeORM**, and **MongoDB**.
-- **Cyber Security & Zero Trust**: Master's background in **Cyber Security**, engineering applications around **Zero-Trust architecture**, networking fundamentals, identity protection, and defensive web security.
-- **Cloud & Continuous Growth**: Active growth in **AWS cloud DevOps**, system design, and high-throughput web architectures.
+- **Full-Stack Ownership**: 3 years delivering production web applications from architecture to live deployment.
+- **Frontend & Systems Architecture**: Specializing in **Next.js**, **React.js**, and **TypeScript**, building fast, scalable, and responsive user experiences.
+- **Backend & API Systems**: Building REST APIs and backends with **Nest.js**, **Express.js**, **PostgreSQL**, **TypeORM**, and **MongoDB**.
+- **Security-minded engineering**: Cybersecurity background applied in practice, Network fundamentals, Authentication & Authorization, GDPR-compliant data flows, and defensive API design.
+- **Cloud & Continuous Growth**: Deepening AWS DevOps and system design skills to build more scalable, resilient architectures.
 
 <br />
 
