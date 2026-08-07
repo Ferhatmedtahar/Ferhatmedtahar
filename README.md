@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/ferhatmohamedtahar" target="_blank">
     <img src="./assets/card-linkedin.svg" width="24%" alt="LinkedIn" />
   </a>
-  <a href="https://drive.google.com/file/d/1dxw2cwSwoennIq7e4ihB9Vp_sEOCmi5c/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1_1Lzlpy3vopPl0mxpUSdkG0D9pFDw4uu/view?usp=sharing" target="_blank">
     <img src="./assets/card-resume.svg" width="24%" alt="Resume" />
   </a>
   <a href="mailto:ferhattaher00@gmail.com" target="_blank">
