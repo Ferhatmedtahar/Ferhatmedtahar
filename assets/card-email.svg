@@ -44,7 +44,7 @@
 
   <!-- Content -->
   <text x="50" y="30" class="card-label" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="1">CONTACT</text>
-  <text x="50" y="48" class="card-title" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700">ferhattaher00@gmail.com</text>
+  <text x="50" y="48" class="card-title" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700">ferhat@ferhatmedtahar.dev</text>
   
   <!-- Arrow -->
   <text x="226" y="24" class="arrow" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14">↗</text>
