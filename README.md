@@ -13,10 +13,10 @@
   <a href="https://www.linkedin.com/in/ferhatmohamedtahar" target="_blank">
     <img src="./assets/card-linkedin.svg" width="24%" alt="LinkedIn" />
   </a>
-  <a href="https://drive.google.com/file/d/1_1Lzlpy3vopPl0mxpUSdkG0D9pFDw4uu/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/16HVlimqt6-ouyxH6SISXfBtrHclb0uVW/view?usp=sharing" target="_blank">
     <img src="./assets/card-resume.svg" width="24%" alt="Resume" />
   </a>
-  <a href="mailto:ferhattaher00@gmail.com" target="_blank">
+  <a href="mailto:ferhat@ferhatmedtahar.dev" target="_blank">
     <img src="./assets/card-email.svg" width="24%" alt="Email" />
   </a>
 </p>
@@ -27,11 +27,11 @@
 
 ![](https://skillicons.dev/icons?i=html,css,js,ts,python,bash)
 
-![](https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,nest,express,prisma,graphql)
+![](https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,nest,express,prisma,graphql,rabbitmq)
 
 ![](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,supabase)
 
-![](https://skillicons.dev/icons?i=jest,docker,githubactions)
+![](https://skillicons.dev/icons?i=jest,docker,githubactions,nginx)
 
 ![](https://skillicons.dev/icons?i=vscode,vite,figma,pnpm,ubuntu,vercel,postman,aws)
 
